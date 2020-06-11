@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "__stackbit_sanity_project_name__"
+    "name": "embryo-concepts-website-1ab3e"
   },
   "api": {
-    "projectId": "__stackbit_sanity_project_id__",
+    "projectId": "225uozbu",
     "dataset": "production"
   },
   "plugins": [
